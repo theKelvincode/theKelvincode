@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theKelvincode
-- 👀 I’m interested in front end web development (proficient in HTML and CSS).
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m interested in software development.
+- 🌱 I’m a Java Dev.
 - 📫 Reach me via theKelvinCode@gmail.com
 
 <!---
