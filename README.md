@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @theKelvincode
-- 👀 I’m interested in software development.
 - 🌱 I’m a Java Dev.
 - 📫 Reach me via theKelvinCode@gmail.com
 
